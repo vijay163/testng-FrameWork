@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38732" started-at="2019-12-19T12:18:18Z" finished-at="2019-12-19T12:18:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38732" started-at="2019-12-19T12:18:18Z" finished-at="2019-12-19T12:18:57Z">
+      <class name="com.actitime.scripts.testLoginPage">
+        <test-method status="PASS" signature="readData()[pri:0, instance:com.actitime.scripts.testLoginPage@215be6bb]" name="readData" duration-ms="38717" started-at="2019-12-19T17:48:18Z" finished-at="2019-12-19T17:48:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readData -->
+      </class> <!-- com.actitime.scripts.testLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

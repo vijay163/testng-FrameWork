@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.actitime.scripts.addCustomer"/>
+      <class name="com.actitime.scripts.testLoginPage"/>
+      <class name="com.actitime.scripts.loginCreate1"/>
+      <class name="com.actitime.scripts.loginWrite"/>
+      <class name="com.actitime.scripts.testHome"/>
+      <class name="com.actitime.scripts.testLicensePage"/>
+      <class name="com.actitime.scripts.testLicensePageforIssueDate"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
